@@ -5,14 +5,16 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/javascript-3630127-3031259.png">
-    
+  
   <img align="center" alt="React" height="30" width="30" src="https://daniel-vinicius.gallerycdn.vsassets.io/extensions/daniel-vinicius/code-snipptes-reactjs-pt-br/0.5.0/1610479284868/Microsoft.VisualStudio.Services.Icons.Default">
     
   <img align="center" alt="HTML" height="30" width="30" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png">
     
   <img align="center" alt="CSS" height="30" width="30" src="https://logospng.org/download/css-3/logo-css-3-2048.png">
+  
+  <img align="center" alt="SCSS" height="28" width="28" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png">
     
-   <img align="center" alt="TSX" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3630303-3030878.png">
+  <img align="center" alt="TSX" height="30" width="30" src="https://cdn.iconscout.com/icon/free/png-256/typescript-3630303-3030878.png">
     
 </div>
   
