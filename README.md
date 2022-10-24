@@ -179,7 +179,7 @@
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<h2 align="center">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
+<h2 align="center" width="100%">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
 <img align="right" src="https://raw.githubusercontent.com/Luk4x/Luk4x/main/projects-wallpaper.gif" height="651px" width="45%" alt="projects image">
 <table width="45%" height="650px">
   <tr>
