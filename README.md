@@ -7,7 +7,7 @@
 <table align="right" max-width="40%" height="410px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="50px" alt="bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="30px" alt"bash icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
@@ -35,14 +35,6 @@
       <sub>
         <b>
           <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="50px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Git&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -80,14 +72,6 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="50px" alt="JQuery icon"/><br>
-      <sub>
-        <b>
-          <pre>Vitejs</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
   <tr>
     <td align="center">
@@ -119,14 +103,6 @@
       <sub>
         <b>
           <pre>Yarn/npm</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="50px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
         </b>
       </sub>
     </td>
@@ -164,7 +140,25 @@
         </b>
       </sub>
     </td>
-        <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="50px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Git&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="50px" alt="JQuery icon"/><br>
+      <sub>
+        <b>
+          <pre>Vitejs</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">         
       <img src="https://user-images.githubusercontent.com/86276393/196552659-0e3000fc-aa8c-4d49-b14f-1d233f1d2b5e.png" width="50px" alt="windows icon"/><br>
       <sub>
         <b>
@@ -172,7 +166,16 @@
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="50px" alt="Axios icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;Axios&ensp;</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
+  
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
