@@ -1,8 +1,7 @@
-<img align="left" width="100%" alt="about" src="./assets/Animation.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
+<img align="left" width="100%" alt="about" src="./assets/oi.gif"/>
+<br>
+<h2 align="center" >🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
+<br><br>
 <img align="left" max-width="40%" alt="quote" src="./assets/Fraze.png"/>
 <table align="right" max-width="40%" height="410px">
   <tr>
@@ -180,6 +179,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center" width="100%">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
+<br><br>
 <img align="right" src="https://raw.githubusercontent.com/Luk4x/Luk4x/main/projects-wallpaper.gif" height="651px" width="45%" alt="projects image">
 <table width="45%" height="650px">
   <tr>
@@ -236,9 +236,10 @@
 <br>
 
 <h2 align="center">
-<details open>
-<summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
-<br>
+  <details open>
+  <summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
+
+<br><br><br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IsaacMoretao&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" height="490px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoretao&langs_count=8&theme=tokyonight&hide_border=true">
