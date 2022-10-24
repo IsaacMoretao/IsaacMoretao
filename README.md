@@ -3,11 +3,11 @@
 
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
-<img align="left" max-width="40%" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<img align="left" max-width="40%" alt="quote" src="./assets/Fraze.png"/>
 <table align="right" max-width="40%" height="410px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="30px" alt"bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="30px" style="border-radius: 30px" alt="bash-icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
