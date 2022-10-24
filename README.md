@@ -7,7 +7,7 @@
 <table align="right" max-width="40%" height="410px">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="30px" style="border-radius: 30px" alt="bash-icon"/><br>
+      <img src="https://skillicons.dev/icons?i=bash" width="30px" style="border-radius: 50px" alt="bash-icon"/><br>
       <sub>
         <b>
           <pre>Terminal</pre>
