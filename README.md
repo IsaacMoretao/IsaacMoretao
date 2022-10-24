@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src="./assets/Ola.mp4"/>
+<img align="left" width="100%" alt="about" src="./assets/Animation.gif"/>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
