@@ -1,3 +1,7 @@
+<img align="left" width="100%" alt="about" src="./assets/Animation.gif"/>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
 <img align="left" width="410px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
 <table align="right" height="410px">
@@ -173,7 +177,7 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2 align="center">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
-<img align="right" src="./projects-wallpaper.gif" height="651px" alt="projects image">
+<img align="right" src="https://raw.githubusercontent.com/Luk4x/Luk4x/main/projects-wallpaper.gif" height="651px" alt="projects image">
 <table height="650px">
   <tr>
     <td>
