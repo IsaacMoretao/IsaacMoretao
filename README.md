@@ -3,8 +3,8 @@
 
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
-<img align="left" width="410px" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
-<table align="right" height="410px">
+<img align="left" width="45%" alt="quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight"/>
+<table align="right" width="45%" height="410px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="bash icon"/><br>
