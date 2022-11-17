@@ -1,4 +1,4 @@
-<img align="left" width="100%" alt="about" src="./assets/oi.gif"/>
+<img align="left" width="100%" alt="about" src="./assets/WhatsApp-Video-2022-11-17-at-10.51.25.gif"/>
 <br>
 <h2 align="center" >🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
 <br><br>
@@ -259,19 +259,23 @@
 <h2 align="center">
   <details open>
   <summary>📈 &ensp; Ａｃｔｉｖｉｔｙ</summary>
+</h2>
 
 <br><br><br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IsaacMoretao&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" height="490px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoretao&langs_count=8&theme=tokyonight&hide_border=true">
+    
 <div align="right"  width="45%">
-<img height="240px" width="45%" src="https://github-readme-stats.vercel.app/api?username=IsaacMoretao&show_icons=true&custom_title=IsaacMoretao%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="240px" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMoretao&theme=tokyonight&hide_border=true">
+  <img height="240px" width="45%" src="https://github-readme-stats.vercel.app/api?username=IsaacMoretao&show_icons=true&custom_title=IsaacMoretao%20Github%20Stats&theme=tokyonight&hide_border=true">
+  <img height="240px" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMoretao&theme=tokyonight&hide_border=true">
 </div>
 </details>
   
+  <br><br>
+  
 
-<div>
+<div align="center">
   
   <a href="https://web.whatsapp.com/send?phone=+5511999899429" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
@@ -290,3 +294,5 @@
   </a>
  
 </div>
+327d9f
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37bcad&height=100&section=footer"/>
