@@ -3,7 +3,7 @@
 <h2 align="center" >🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
 <br><br>
 <img align="left" max-width="40%" alt="quote" src="./assets/Fraze.png"/>
-<table align="right" max-width="40%" height="410px">
+<table align="right" max-width="40%" height="400px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="50px" alt="bash-icon"/><br>
@@ -127,7 +127,7 @@
       <img src="https://skillicons.dev/icons?i=ts" width="50px" alt="linux icon"/><br>
       <sub>
         <b>
-          <pre>Linux</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
@@ -174,6 +174,17 @@
       </sub>
     </td>
   </tr>
+    <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="Node icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;NodeJs&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+
+  </tr>
   
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -189,6 +200,22 @@
     </a>
     </td>
   </tr>
+  <tr>
+    <td>
+     <a href="https://github.com/IsaacMoretao/Copa" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacMoretao&repo=copa&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+     <a href="https://github.com/IsaacMoretao/RocketMovie" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacMoretao&repo=RocketMovie&theme=tokyonight&hide_border=true">
+    </a>
+    </td>
+  </tr>
+
   <tr>
     <td>
     <a href="https://github.com/IsaacMoretao/Letmeask" target="_blank">
@@ -252,10 +279,20 @@
 
 <div>
   
-   <a href="https://web.whatsapp.com/send?phone=+5511999899429" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href="https://www.instagram.com/isaac_moretao/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" destino =" _blank"></a>
-   <a href = "https://www.linkedin.com/in/isaac-hana-moretao%C3%A3o-1a32031a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" destino ="_blank"></a>
- 
+  <a href="https://web.whatsapp.com/send?phone=+5511999899429" target="_blank">
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://www.instagram.com/isaac_moretao/" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a>
+
+  <a href="mailto:isaachanam@gmail.com">
+   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" destino =" _blank">
+  </a>
+
+  <a href="https://www.linkedin.com/in/isaac-hana-moretao%C3%A3o-1a32031a2/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" destino ="_blank">
+  </a>
  
 </div>
