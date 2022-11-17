@@ -3,7 +3,7 @@
 <h2 align="center" >🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
 <br><br>
 <img align="left" max-width="40%" alt="quote" src="./assets/Fraze.png"/>
-<table align="right" max-width="40%" height="410px">
+<table align="right" max-width="40%" height="400px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="50px" alt="bash-icon"/><br>
@@ -127,7 +127,7 @@
       <img src="https://skillicons.dev/icons?i=ts" width="50px" alt="linux icon"/><br>
       <sub>
         <b>
-          <pre>Linux</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
@@ -173,6 +173,17 @@
         </b>
       </sub>
     </td>
+  </tr>
+    <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50px" alt="Node icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;NodeJs&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+
   </tr>
   
 </table>
