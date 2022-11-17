@@ -202,8 +202,8 @@
   </tr>
   <tr>
     <td>
-     <a href="https://github.com/IsaacMoretao/Copa" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacMoretao&repo=copa&theme=tokyonight&hide_border=true">
+      <a href="https://github.com/IsaacMoretao/Copa" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacMoretao&repo=Copa&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
