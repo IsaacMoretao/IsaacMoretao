@@ -294,5 +294,4 @@
   </a>
  
 </div>
-327d9f
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=37bcad&height=100&section=footer"/>
