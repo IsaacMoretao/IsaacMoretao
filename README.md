@@ -196,7 +196,7 @@
   <tr>
     <td>
     <a href="/IsaacMoretao/portfolio" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacMoretao&repo=portfolio&theme=tokyonight&hide_border=true">
+      <img align="center" src="ae">
     </a>
     </td>
   </tr>
@@ -262,7 +262,7 @@
 </h2>
 
 <br><br><br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=IsaacMoretao&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=IsaacMoretao&theme=tokyo-night&hide_border=true">
 <br><br>
 <img align="left" height="500px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoretao&langs_count=8&theme=tokyonight&hide_border=true">
     
