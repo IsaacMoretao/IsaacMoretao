@@ -191,7 +191,7 @@
 
 <h2 align="center" width="100%">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
 <br><br>
-<img align="right" src="https://raw.githubusercontent.com/Luk4x/Luk4x/main/projects-wallpaper.gif" height="651px" width="45%" alt="projects image">
+<img align="right" src="./assets/Pexels.mp4" height="651px" width="45%" alt="projects image">
 <table width="45%" height="650px">
   <tr>
     <td>
