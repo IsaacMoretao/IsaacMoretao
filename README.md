@@ -195,8 +195,8 @@
 <table width="45%" height="650px">
   <tr>
     <td>
-    <a href="/IsaacMoretao/portfolio" target="_blank">
-      <img align="center" src="ae">
+    <a href="https://isaacmoretao.github.io/portfolio/" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=IsaacMoretao&repo=portifolio-main&theme=tokyonight&hide_border=true">
     </a>
     </td>
   </tr>
