@@ -1,5 +1,5 @@
 <img align="left" width="100%" alt="about" src="./assets/WhatsApp-Video-2022-11-17-at-10.51.25.gif"/>
-<br>
+<br><br> 
 <h2 align="center" >🛠️ &ensp; <i>Ｔｅｃｈｎｏｌｏｇｉｅｓ</i></h2>
 <br><br>
 <img align="left" max-width="40%" alt="quote" src="./assets/Fraze.png"/>
@@ -191,7 +191,7 @@
 
 <h2 align="center" width="100%">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
 <br><br>
-<img align="right" src="./assets/pexels.gif" width="45%" alt="projects image">
+<img align="right" src="./assets/pexels.gif" width="45%" height="651px" alt="projects image">
 <table width="45%" height="650px">
   <tr>
     <td>
@@ -264,9 +264,9 @@
 <br><br><br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=IsaacMoretao&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="490px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoretao&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="500px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMoretao&langs_count=8&theme=tokyonight&hide_border=true">
     
-<div align="right"  width="45%">
+<div align="right"  width="45%" height="500px">
   <img height="240px" width="45%" src="https://github-readme-stats.vercel.app/api?username=IsaacMoretao&show_icons=true&custom_title=IsaacMoretao%20Github%20Stats&theme=tokyonight&hide_border=true">
   <img height="240px" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsaacMoretao&theme=tokyonight&hide_border=true">
 </div>
