@@ -191,7 +191,7 @@
 
 <h2 align="center" width="100%">🗃️ &ensp; Ｐｒｏｊｅｃｔｓ</h2>
 <br><br>
-<img align="right" src="./assets/Pexels.gif" height="651px" width="45%" alt="projects image">
+<img align="right" src="./assets/Mobile.png" height="651px" width="45%" alt="projects image">
 <table width="45%" height="650px">
   <tr>
     <td>
